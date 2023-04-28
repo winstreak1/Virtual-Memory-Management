@@ -1,0 +1,56 @@
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+512            4            FIFO          0.326172
+512            4            LRU           0.273438
+512            4            MRU           0.183594
+512            4            Optimal       0.230469
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+512            8            FIFO          0.273438
+512            8            LRU           0.244141
+512            8            MRU           0.181641
+512            8            Optimal       0.197266
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+512            12            FIFO          0.25
+512            12            LRU           0.230469
+512            12            MRU           0.183594
+512            12            Optimal       0.195312
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+1024            4            FIFO          0.271484
+1024            4            LRU           0.24707
+1024            4            MRU           0.207031
+1024            4            Optimal       0.234375
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+1024            8            FIFO          0.24707
+1024            8            LRU           0.235352
+1024            8            MRU           0.206055
+1024            8            Optimal       0.217773
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+1024            12            FIFO          0.236328
+1024            12            LRU           0.229492
+1024            12            MRU           0.206055
+1024            12            Optimal       0.212891
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+2048            4            FIFO          0.605469
+2048            4            LRU           0.585938
+2048            4            MRU           0.398438
+2048            4            Optimal       0.511719
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+2048            8            FIFO          0.570312
+2048            8            LRU           0.558105
+2048            8            MRU           0.398438
+2048            8            Optimal       0.461914
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************
+2048            12            FIFO          0.555664
+2048            12            LRU           0.542969
+2048            12            MRU           0.398438
+2048            12            Optimal       0.441895
+Page Size   # of Frames   Algorithm     Page Fault %
+****************************************************

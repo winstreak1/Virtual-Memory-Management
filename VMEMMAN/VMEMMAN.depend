@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1681093927 source:z:\vmemman\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	"fifo.cpp"
+	"lru.cpp"
+	"mru.cpp"
+	"optimal.cpp"
+
+1681094107 z:\vmemman\fifo.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+
+1681000663 z:\vmemman\main.cpp
+	<iostream>
+	<fstream>
+	"fifo.cpp"
+
+1681094107 z:\vmemman\lru.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1681094107 z:\vmemman\mru.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1681094114 z:\vmemman\optimal.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+
